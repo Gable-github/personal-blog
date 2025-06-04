@@ -1,3 +1,1 @@
-# Personal Blog
-
-A personal blog built with MkDocs Material theme
+### My personal blog at https://gabryelsoh.com/personal-blog/
