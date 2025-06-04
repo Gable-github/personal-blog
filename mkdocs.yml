@@ -122,4 +122,5 @@ nav:
   - Blog:
     - posts/index.md
     - "How to Add Posts": posts/2024-01-15-setting-up-mkdocs-blog.md
+    - "Open Source: Springboot Auth Microservice": posts/2025-06-04-springboot-auth-microservice.md
   - About: about.md 
