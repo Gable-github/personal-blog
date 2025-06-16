@@ -2,26 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://gable-github.github.io/personal-blog/</loc>
-         <lastmod>2025-06-15</lastmod>
+         <lastmod>2025-06-16</lastmod>
     </url>
     <url>
          <loc>https://gable-github.github.io/personal-blog/about/</loc>
-         <lastmod>2025-06-15</lastmod>
+         <lastmod>2025-06-16</lastmod>
     </url>
     <url>
          <loc>https://gable-github.github.io/personal-blog/posts/</loc>
-         <lastmod>2025-06-15</lastmod>
+         <lastmod>2025-06-16</lastmod>
     </url>
     <url>
          <loc>https://gable-github.github.io/personal-blog/posts/2024-01-15-setting-up-mkdocs-blog/</loc>
-         <lastmod>2025-06-15</lastmod>
+         <lastmod>2025-06-16</lastmod>
     </url>
     <url>
          <loc>https://gable-github.github.io/personal-blog/posts/2025-06-04-springboot-auth-microservice/</loc>
-         <lastmod>2025-06-15</lastmod>
+         <lastmod>2025-06-16</lastmod>
     </url>
     <url>
          <loc>https://gable-github.github.io/personal-blog/posts/2025-06-14-social-media-detox-and-personal-growth/</loc>
-         <lastmod>2025-06-15</lastmod>
+         <lastmod>2025-06-16</lastmod>
+    </url>
+    <url>
+         <loc>https://gable-github.github.io/personal-blog/posts/2025-06-15-whats-the-best-way-to-practice-leetcode/</loc>
+         <lastmod>2025-06-16</lastmod>
     </url>
 </urlset>
