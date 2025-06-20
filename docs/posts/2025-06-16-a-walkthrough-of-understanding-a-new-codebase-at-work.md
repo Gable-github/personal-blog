@@ -1,5 +1,5 @@
 ---
-title: "How do I understand a new codebase? A walkthrough."
+title: "A walkthrough of understanding a new codebase at work"
 date: 2025-06-16
 authors:
   - Gabryel Soh
