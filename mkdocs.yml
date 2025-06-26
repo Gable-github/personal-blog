@@ -63,6 +63,8 @@ plugins:
       locale: en
       fallback_to_build_date: true
       enable_creation_date: true
+  - tags
+  - social
 
 # Customization
 extra:
@@ -119,6 +121,7 @@ markdown_extensions:
 # Page tree
 nav:
   - Home: index.md
+  - Tags: tags.md
   - Blog:
     - posts/index.md
     # - "How to Add Posts": posts/2024-01-15-setting-up-mkdocs-blog.md
