@@ -3,6 +3,8 @@ title: "Social Media Detox: Reading Deeply, Energy Levels, and Thinking Less"
 date: 2025-06-14
 authors:
   - Gabryel Soh
+tags:
+  - Personal Thoughts
 ---
 
 Recently, I've been on a social media detox and have been trying to (1) **re-learn how to read deeply**, (2) **maintain my energy levels.** (3) **think less**.

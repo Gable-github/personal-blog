@@ -1,5 +1,5 @@
 ---
-title: "Open Source: Springboot Auth Microservice"
+title: "Open Source Project: Springboot Auth Microservice"
 date: 2025-06-04
 authors:
   - Gabryel Soh
@@ -25,6 +25,8 @@ tech:
   - Spring Boot DevTools
 company: 'Open Source Project'
 showInProjects: true
+tags:
+  - Personal Projects
 ---
 
 # Open Source: Springboot Auth Microservice

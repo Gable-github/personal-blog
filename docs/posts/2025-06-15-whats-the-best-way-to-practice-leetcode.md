@@ -3,6 +3,8 @@ title: "Whats the best way to practice leetcode?"
 date: 2025-06-15
 authors:
   - Gabryel Soh
+tags:
+  - Leetcode
 ---
 
 As of this date, I've been semi-consistently practicing leetcode. I do it when I can, and when I'm not too drained from the day.
