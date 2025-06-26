@@ -4,7 +4,6 @@
 - Takeaways from beautiful SF. How work and play are 2 sides of the same coin, cutting out marketing (awesome), grokking with UGC
 
 ## June 2025
-- [Dinner with an open source maintainer. The nuts and bolts of a program used by millions.](2025-06-17-meeting-with-an-open-source-maintainer.md)
 - [A walkthrough of understanding a new codebase at work](2025-06-16-a-walkthrough-of-understanding-a-new-codebase-at-work.md)
 - [Whats the best way to practice leetcode?](2025-06-15-whats-the-best-way-to-practice-leetcode.md)
 - [Social Media Detox: Reading Deeply, Energy Levels, and Thinking Less](2025-06-14-social-media-detox-and-personal-growth.md)
